@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/fengmk2/prime_detector.git"
+    "url": "git://github.com/sorry/prime_detector.git"
   },
   "keywords": [
     "prime_detector"
@@ -36,6 +36,6 @@
   "engines": {
     "node": ">= 0.8.0"
   },
-  "author": "fengmk2 <fengmk2@gmail.com>",
+  "author": "sorry",
   "license": "MIT"
 }
